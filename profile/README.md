@@ -16,7 +16,7 @@ Membership · Giving · SMS · Events · Analytics
 [![Website](https://img.shields.io/badge/Website-ekklesiasys.app-2563EB?style=flat-square&logo=globe&logoColor=white)](https://ekklesiasys.app)
 [![Twitter](https://img.shields.io/badge/Twitter-@ekklesiasys-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/@ekklesiasys)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-EkklesiaSys-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/[your-company]) -->
-[![Email](https://img.shields.io/badge/Email-info@ekklesiasys.app-2563EB?style=flat-square&logo=mail.ru&logoColor=white)](mailto:info@ekklesiasys.app)
+[![Talk to Us](https://img.shields.io/badge/Email-info@ekklesiasys.app-2563EB?style=flat-square&logo=mail.ru&logoColor=white)](mailto:info@ekklesiasys.app)
 
 </div>
 
